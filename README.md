@@ -4,6 +4,7 @@
 
 ### What is this? 🤔 
 This repository contains Python implementations, experiments, and exercises developed for the Computational Intelligence course.
+Each folder contains implementations, tests, and presentations related to a specific algorithm.
 The goal is to explore core concepts of Computational Intelligence through practical applications, including algorithm implementations, problem-solving, and experimentation.
 
 ### Which tecnologies were used to build it? 🚀 
@@ -17,9 +18,16 @@ The goal is to explore core concepts of Computational Intelligence through pract
     </tr>
 </table>
 
+### Project File Structure 📁
+    computational-intelligence-python/
+    ├── hebb/
+    ├── perceptron/
+    ├── README.md
+    └── README-ptbr.md
+
 ### How to run 🏃
 
-    enther the directory of the desired algorithm
+    enter the directory of the desired algorithm
     run 'python algorith_name.py'
 
 ### Author 👨‍💻

@@ -4,6 +4,7 @@
 
 ### O que é isso? 🤔 
 Este repositório contém implementações em Python, experimentos e exercícios desenvolvidos para o curso de Inteligência Computacional.
+Cada pasta contém implementações, testes e apresentações relacionadas a um algoritmo específico.
 O objetivo é explorar os conceitos fundamentais da Inteligência Computacional por meio de aplicações práticas, incluindo implementações de algoritmos, resolução de problemas e experimentação.
 
 ### Quais tecnologias foram usadas para construí-lo? 🚀 
@@ -16,6 +17,13 @@ O objetivo é explorar os conceitos fundamentais da Inteligência Computacional 
         </td>
     </tr>
 </table>
+
+### Estrutura de Pastas do Projeto 📁
+    computational-intelligence-python/
+    ├── hebb/
+    ├── perceptron/
+    ├── README.md
+    └── README-ptbr.md
 
 ### Como executar 🏃
 
