@@ -24,7 +24,7 @@ for i in range (4):
     w2 = w2 + (x2 * y)
     bias = bias + y 
     
-    print("Sample: Updated weights: ", w1, w2, bias)
+    print("Updated weights: ", w1, w2, bias)
     
 print("\n Final test")
 
@@ -37,4 +37,4 @@ for i in range (4):
     else: 
         prediction = -1
     
-    print(f"Entrada: [{inputs[i][0]}, {inputs[i][1]}] | Target: {targets[i]} | Prediction: {prediction}")
+    print(f"Input: [{inputs[i][0]}, {inputs[i][1]}] | Target: {targets[i]} | Prediction: {prediction}")

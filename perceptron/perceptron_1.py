@@ -20,7 +20,7 @@ def train_perceptron(name, inputs, targets):
     eta = 1.0
     epochs = 20
     
-    print(f"\n ==== LETRAS {name} - PERCEPTRON ===== \n")
+    print(f"\n ==== LETTERS {name} - PERCEPTRON ===== \n")
     
     for j in range(epochs):
         total_error = 0

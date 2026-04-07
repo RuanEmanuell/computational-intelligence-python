@@ -5,7 +5,7 @@ def train_hebb(name, inputs, targets):
     w2 = 0
     bias = 0
     
-    print(f"\n ==== PORTA {name} ===== \n")
+    print(f"\n ==== LOGIC GATE {name} ===== \n")
     
     for i in range (4):
         x1 = inputs[i][0]
@@ -16,7 +16,7 @@ def train_hebb(name, inputs, targets):
         w2 = w2 + (x2 * y)
         bias = bias + y 
         
-        print("Sample: Updated weights: ", w1, w2, bias)
+        print("Updated weights: ", w1, w2, bias)
         
     print("\n Test:")
 
@@ -29,7 +29,7 @@ def train_hebb(name, inputs, targets):
         else: 
             prediction = -1
         
-        print(f"Entrada: [{inputs[i][0]}, {inputs[i][1]}] | Target: {targets[i]} | Prediction: {prediction}")
+        print(f"Input: [{inputs[i][0]}, {inputs[i][1]}] | Target: {targets[i]} | Prediction: {prediction}")
     
 
 inputs = [

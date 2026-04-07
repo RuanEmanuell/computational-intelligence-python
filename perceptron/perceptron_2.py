@@ -38,7 +38,7 @@ def train_perceptron(name, inputs, targets):
             break
     
             
-    print("Sample: Updated weights: ", w1, w2, bias)
+    print("Updated weights: ", w1, w2, bias)
         
     print("\n Test:")
 
@@ -52,7 +52,7 @@ def train_perceptron(name, inputs, targets):
         else: 
             prediction = -1
         
-        print(f"Entrada: [{inputs[i][0]}, {inputs[i][1]}] | Target: {targets[i]} | Prediction: {prediction}")
+        print(f"Input: [{inputs[i][0]}, {inputs[i][1]}] | Target: {targets[i]} | Prediction: {prediction}")
 
 inputs = [
     [1,   1],
