@@ -14,3 +14,8 @@ This folder contains two distinct Python implementations demonstrating the flexi
 
 ## Presentation
 A presentation explaining the concept and implementation is also included:
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/40404bfe-cf57-4176-b903-a77941524c26" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/3e8a0e21-39ab-41ae-811b-98b2afd38df9" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/a63e7c1c-39c0-444c-999a-e8fa64f6b57e" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/c652feb9-8c22-4309-82b4-f2643d814233" />

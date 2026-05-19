@@ -14,3 +14,8 @@ Esta pasta contém duas implementações distintas em Python que demonstram a fl
 
 ## Apresentação
 Uma apresentação explicando o conceito e a implementação também está incluída:
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/278600c8-6668-409a-a015-63ab9c8df1cc" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/c896af23-23ad-49ae-bba4-85a126c11b59" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/26690c52-cad5-4d6b-a007-ade2899f7a05" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/f98289ed-3174-4646-bcb3-cbfa6f41fe92" />
