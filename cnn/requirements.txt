@@ -1,0 +1,6 @@
+torch>=2.4
+torchvision>=0.19
+numpy>=1.24
+matplotlib>=3.8
+scikit-learn>=1.4
+pillow>=10.0
